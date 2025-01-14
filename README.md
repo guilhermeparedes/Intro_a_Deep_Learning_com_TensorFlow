@@ -7,4 +7,5 @@ O objetivo dete projeto é de construir um modelo de Inteligência Artificial ca
 
 
 Site DSA: https://www.datascienceacademy.com.br/todoscursosdsa
+
 Dataset com imagens para treinamento: https://www.cs.toronto.edu/~kriz/cifar.html 
